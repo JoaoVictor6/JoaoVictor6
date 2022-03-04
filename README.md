@@ -1,37 +1,21 @@
+<a>
+  <img src="https://c.tenor.com/pPnM7wANoVoAAAAC/flushed.gif" align="right" height="132px"/>
+</a>
 
-# Hi there! 🖐
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=joaovictor6&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor6&layout=compact"
-    />
-  </a>
-</p>
-
-
-### 🌟 Sobre mim 
-- 📚 cursando o ultimo ano do ensino médio
-- 💚 Insteresses: ReactJS, React native, typescript e nodejs
+## Hi there! 🖐
+Olá, meu nome é João Victor. Sou fascinado pela área de desenvolvimento e estudo a 2 anos sobre. Esse aqui é quase que meu laboratório, tem de tudo kkkk.
 
 ## skills 👨‍💻
-
 <div align="center"> 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></code>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="64px"/>
+
 </div>
 
 ## Contact 📲
